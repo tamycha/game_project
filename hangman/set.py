@@ -1,0 +1,2 @@
+ADMIN_ID = "admin"
+ADMIN_PASSWORD = "1111"
